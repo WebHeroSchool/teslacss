@@ -1,4 +1,19 @@
+.first-page__title {
+	font-family: 'montserratsemibold';
+    font-size: 90px;
+}
+
 .first-page__desc {
-	font-family: 'montserratmedium';
-	font-size: 40px;
+	font-family: 'montserratmedium', sans-serif;
+	font-size: 15px;
+}
+
+.speed__desc_add {
+    font-family: 'montserratregular', sans-serif;
+    font-size: 12px;
+}
+
+.first-page__btn {
+	font-family: 'montserratbold', sans-serif;
+	font-size: 13px;
 }
